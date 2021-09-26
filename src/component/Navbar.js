@@ -122,7 +122,7 @@ I am 18 year old, Computer Science student studied at Lovely Proffesional Univer
    <i className="fab fa-js"></i>
    <h2>Github user list</h2>
    <p>Build Using HTML,CSS,JS,API</p>
-   <button><a href="https://github.com/Paramchoudhary/github-user-api" target="_blank">View source <i className="fas fa-external-link-alt"></i></a></button>
+   <button><a href="https://github.com/Paramchoudhary/github-user-api" >View source <i className="fas fa-external-link-alt"></i></a></button>
     </div>
   </div>
 </div>
