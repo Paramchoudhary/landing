@@ -17,6 +17,7 @@
     "react-icons": "^4.2.0",
     "react-parallax-tilt": "^1.4.68",
     "react-particles-js": "^3.4.1",
+    "react-preloaders": "^3.0.3",
     "react-router": "^5.2.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
@@ -26,7 +27,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-      "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
